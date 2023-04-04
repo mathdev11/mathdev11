@@ -1,13 +1,13 @@
 # Welcome to my mind! 
-Atualmente sou um modelo que está **trilhando um novo caminho** como desenvolvedor. Sou apaixonado por tecnologia e estou estudando na EBAC (Escola Britânica de Artes Criativas) para aprimorar minhas habilidades e me tornar um programador excepcional.
+I am currently a model who is **paving a new path as a developer**. I am passionate about technology and studying at EBAC (British School of Creative Arts) to improve my skills and become an exceptional programmer.
 
-Aprendo rápido e estou sempre em busca de desafios para me desenvolver ainda mais. Acredito que a **evolução é uma parte fundamental do sucesso** em qualquer carreira, especialmente na área de tecnologia, onde a inovação é constante. Estou ansioso para enfrentar novos desafios e expandir meus conhecimentos em programação.
+I am a fast learner and always seeking challenges to further develop myself. I believe that **growth is a fundamental part of success** in any career, especially in the field of technology, where innovation is constant. I am excited to face new challenges and expand my knowledge in programming.
 
-Quando não estou programando, gosto de jogar videogames como forma de relaxamento. Sou um grande fã de jogos de estratégia e RPGs, e acho fantastico como esses jogos podem desenvolver habilidades como tomada de decisão e resolução de problemas.
+When I am not coding, I enjoy playing video games as a form of relaxation. I am a big fan of strategy and RPG games, and find it amazing how these games can develop skills such as decision-making and problem-solving.
 
-Além disso, sou um **amante da música** e sempre estou procurando novos artistas e gêneros para ouvir. A música é uma grande fonte de inspiração e motivação para mim.
+Additionally, **I am a music lover** and always looking for new artists and genres to listen to. Music is a great source of inspiration and motivation for me.
 
-Estou animado para explorar as muitas oportunidades que a programação oferece e mal posso esperar para ver o que o futuro me reserva como desenvolvedor. Se você está interessado em tecnologia ou quer bater um papo, não hesite em entrar em contato!
+**I am excited** to explore the many opportunities that programming offers and cannot wait to see what the future holds for me as a developer. If you are interested in technology or just want to chat, feel free to get in touch!
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/matdev11#2360) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/matheus.plentz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deboasgurizada) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/matheus-plentz-546046269/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://br.pinterest.com/matheusplentz/) 
