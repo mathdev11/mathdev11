@@ -22,7 +22,6 @@ Additionally, **I am a music lover** and always looking for new artists and genr
 ![](https://github-contributor-stats.vercel.app/api?username=mathdev11&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
-
-## _Simplicity is the final achievement. After one has played a vast quantity of notes and more notes, it is simplicity that emerges as the crowning reward of art._
+## _''Simplicity is the final achievement. After one has played a vast quantity of notes and more notes, it is simplicity that emerges as the crowning reward of art.''_
 ## **Frederic Chopin**
 
